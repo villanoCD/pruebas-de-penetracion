@@ -1,0 +1,12 @@
+Comando,     Función,    Ejemplo
+pwd,         Muestra el directorio actual (Print Working Directory).    ,pwd
+ls,          Lista el contenido del directorio.                         ,ls-l (lista detallada)
+cd,          Cambia de directorio (Change Directory).                  ,cd /var/log
+mkdir       ,Crea un directorio nuevo (Make Directory).                ,mkdir mi_carpeta
+rm,          Elimina archivos o directorios.                           ,rm archivo.txt
+cp,          Copia archivos o directorios.                            ,cp origen.txt destino/
+mv,          Mueve o renombra archivos/directorios.                   ,mv viejo_nombre.txt nuevo_nombre.txt
+cat,         Muestra el contenido completo de un archivo.             ,cat /etc/passwd
+nano,        Abre el editor de texto Nano para crear o editar un archivo.    ,nano script.sh
+less,        Muestra el contenido de un archivo de forma paginada.        ,less log.txt
+clear       ,Limpia la pantalla de la terminal.                        ,clear
